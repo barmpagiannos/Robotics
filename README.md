@@ -1,6 +1,6 @@
 # 🤖 UR10 Trajectory Planning & Door Opening Simulation
 
-This repository contains the deliverables for the 2025 Robotics course project. The project focuses on **trajectory planning** and **orientation control** for a door-opening task involving a robotic manipulator and a rotating handle.
+This repository contains the deliverables for the 2025 **Robotics** course project. The project focuses on **trajectory planning** and **orientation control** for a door-opening task involving a robotic manipulator and a rotating handle.
 
 ---
 
